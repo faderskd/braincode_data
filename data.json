@@ -1,46 +1,46 @@
 {
-  "bartek2": [
+  "room1": [
     {
-      "keyword": "Steven Clark",
-      "text": "Dolorem quisquam cumque molestias consectetur. Quaerat voluptate doloribus recusandae molestias culpa dicta ullam. Incidunt aspernatur amet modi labore est blanditiis."
+      "keyword": "Python",
+      "text": "Python is a interpreted language"
     },
     {
-      "keyword": "Isaac Mcintosh",
-      "text": "Dolorem sunt placeat ab consequuntur omnis expedita. Labore corporis odit deleniti ipsa laudantium at aut id. Repudiandae odit laboriosam veniam perspiciatis. Est accusamus facilis dolorum soluta ab."
+      "keyword": "Kafka",
+      "text": "Bufor danych"
     },
     {
-      "keyword": "Cameron Perez",
-      "text": "Voluptas earum velit minima. Enim non hic sunt non et et vitae error. Aliquam officiis magnam corrupti cupiditate repellendus temporibus ab."
+      "keyword": "Elasticsearch",
+      "text": "It is a powerful search engine."
     },
     {
-      "keyword": "Timothy Reynolds",
-      "text": "Veritatis perferendis adipisci nihil maiores sed. Quos aliquid aperiam provident odit. Delectus iste accusamus magni reprehenderit qui possimus."
+      "keyword": "Django framework",
+      "text": "The Web framework for perfectionists with deadlines."
     },
     {
-      "keyword": "Richard Johnson",
-      "text": "Esse eveniet magni voluptas cumque quis. Expedita possimus laborum reiciendis commodi recusandae quo blanditiis. Corrupti reiciendis eveniet veniam non tenetur placeat. Perferendis nobis voluptas quasi repellendus accusamus facilis."
+      "keyword": "Machine learning",
+      "text": "subfield of computer science that gives computers the ability to learn without being explicitly programmed"
     },
     {
-      "keyword": "Christopher Parker",
-      "text": "Aliquid eos at enim veritatis cupiditate fugiat incidunt. Impedit porro perspiciatis aliquam pariatur illum. Cum illum tenetur quibusdam amet dolorum dicta libero. Dolorum porro magnam nostrum. Delectus dolor quo adipisci animi enim omnis."
+      "keyword": "programming",
+      "text": "Having fun :)"
     },
     {
-      "keyword": "Richie Hawtin",
-      "text": "Rysiek dobry koleś."
+      "keyword": "remote server",
+      "text": "Przykladowy opis"
     }
   ],
-  "ostatni": [
+  "room2": [
     {
-      "keyword": "Heelol",
-      "text": "Kolka Kolka."
+      "keyword": "extreme programming",
+      "text": "Programming in pairs"
     },
     {
-      "keyword": "Siema",
-      "text": "Siemaeniu"
+      "keyword": "program",
+      "text": "Set of computer instructions"
     },
     {
-      "keyword": "Elo",
-      "text": "No siema"
+      "keyword": "allegro",
+      "text": "Tell me something about allegro"
     }
   ]
 }
