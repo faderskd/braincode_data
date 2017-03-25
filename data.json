@@ -1,23 +1,23 @@
 {
   "support": [
     {
-      "keyword": "Python",
+      "keyword": "python",
       "text": "Python is a interpreted language"
     },
     {
-      "keyword": "Kafka",
+      "keyword": "kafka",
       "text": "Bufor danych"
     },
     {
-      "keyword": "Elasticsearch",
+      "keyword": "elasticsearch",
       "text": "It is a powerful search engine."
     },
     {
-      "keyword": "Django framework",
+      "keyword": "django framework",
       "text": "The Web framework for perfectionists with deadlines."
     },
     {
-      "keyword": "Data science",
+      "keyword": "data science",
       "text": "asdsadsa"
     },
     {
