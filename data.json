@@ -1,5 +1,5 @@
 {
-  "room1": [
+  "support": [
     {
       "keyword": "Python",
       "text": "Python is a interpreted language"
@@ -29,7 +29,7 @@
       "text": "Server to connect to over the network."
     }
   ],
-  "room2": [
+  "tech-support": [
     {
       "keyword": "extreme programming",
       "text": "Programming in pairs. Best for difficult problems."
