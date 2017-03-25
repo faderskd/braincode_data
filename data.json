@@ -26,21 +26,21 @@
     },
     {
       "keyword": "remote server",
-      "text": "Przykladowy opis"
+      "text": "Server to connect to over the network."
     }
   ],
   "room2": [
     {
       "keyword": "extreme programming",
-      "text": "Programming in pairs"
+      "text": "Programming in pairs. Best for difficult problems."
     },
     {
       "keyword": "program",
       "text": "Set of computer instructions"
     },
     {
-      "keyword": "allegro",
-      "text": "Tell me something about allegro"
+      "keyword": "tell me what you search in allegro",
+      "text": "The BrainCode2017 task."
     }
   ]
 }
